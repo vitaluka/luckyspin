@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.vitaluka.twa",
+    "sha256_cert_fingerprints": ["04:FF:05:80:BE:4E:FC:D0:A2:6D:67:16:C7:0C:97:38:BA:8A:A2:DD:A0:0F:E7:02:B3:55:E1:02:49:E8:05:6E"]
+  }
+}]
