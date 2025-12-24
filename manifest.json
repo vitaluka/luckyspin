@@ -1,0 +1,16 @@
+{
+  "name": "LuckySpin Casino",
+  "short_name": "LuckySpin",
+  "start_url": "/luckyspin/",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#ff00ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://vitaluka.github.io/luckyspin/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
