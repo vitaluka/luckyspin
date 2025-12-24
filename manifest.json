@@ -2,7 +2,7 @@
   "name": "LuckySpin Casino",
   "short_name": "LuckySpin",
   "start_url": "/luckyspin/",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#050508",
   "theme_color": "#ff00ff",
   "orientation": "portrait",
